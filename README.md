@@ -70,9 +70,10 @@ const nevesz = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aiel-rgb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=Aiel-rgb&show_icons=true&theme=radical" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiel-rgb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiel-rgb&layout=compact&theme=radical" />
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aiel-rgb&theme=dark)
 
