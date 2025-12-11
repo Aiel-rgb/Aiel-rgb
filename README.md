@@ -17,7 +17,7 @@ const nevesz = {
   name: "Gabriel Neves",
   username: "Aiel-rgb",
   role: "Full Stack Developer Student",
-  location: "Estácio - Brasil",
+  location: "Estácio - Parangaba",
   education: "Ciências da Computação",
   focus: ["Web Development", "Cybersecurity"],
   
