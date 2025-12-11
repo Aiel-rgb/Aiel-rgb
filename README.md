@@ -70,11 +70,11 @@ const nevesz = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aiel-rgb&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiel-rgb&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aiel-rgb&theme=dark)
 
 </div>
 
@@ -84,7 +84,7 @@ const nevesz = {
 
 <div align="center">
   
-![Snake animation](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Aiel-rgb/Aiel-rgb/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
