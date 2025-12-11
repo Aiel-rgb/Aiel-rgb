@@ -84,7 +84,7 @@ const nevesz = {
 
 <div align="center">
   
-![Snake animation](https://github.com/Aiel-rgb/Aiel-rgb/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
+![Snake animation](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
