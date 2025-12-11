@@ -31,7 +31,9 @@ const nevesz = {
   currentGoals: [
     "Dominar desenvolvimento Full Stack",
     "Aprofundar conhecimentos em Cybersecurity",
-    "Contribuir com projetos open source"
+    "Contribuir com projetos"
+    "Adquirir certificação AWS"
+    "Iniciar estudos em Data Science"
   ],
   
   motto: "Em constante evolução 🚀"
