@@ -20,7 +20,13 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Aiel-rgb
-          outputs: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+          # Configuração para fundo preto e cores personalizadas
+          svg_out: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?color_snake=00D9FF&color_dots=00D9FF,0D1117,00D9FF&background=0D1117
       
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
