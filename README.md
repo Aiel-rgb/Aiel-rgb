@@ -69,11 +69,6 @@ const nevesz = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-[![Aiel-rgb's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aiel-rgb&show_icons=true&theme=radical)](https://github.com/Aiel-rgb)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aiel-rgb&layout=compact&theme=radical)](https://github.com/Aiel-rgb)
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aiel-rgb&theme=dark)
 
