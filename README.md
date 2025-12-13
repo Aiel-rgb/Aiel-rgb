@@ -43,7 +43,6 @@ const nevesz = {
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWpuMnB4bDAyNjEyMmhkcW1mdGFnYjd3MGJvNWE2aGY1M2E1c2hkaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jRrbtBwb8yNXUhNS5x/giphy.gif" width="300">
 </div>
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
