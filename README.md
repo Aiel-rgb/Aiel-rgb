@@ -97,7 +97,7 @@ const nevesz = {
 
 [![Portfolio HTML-CSS](https://github-readme-stats.vercel.app/api/pin/?username=Aiel-rgb&repo=Portifolio-HTML-CSS&theme=radical&hide_border=true&bg_color=0D1117&title_color=9966CC&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Aiel-rgb/Portifolio-HTML-CSS)
 
-[![Gtech Repositório](https://github-readme-stats.vercel.app/api/pin/?username=Aiel-rgb&repo=Gtech-repositorio&theme=radical&hide_border=true&bg_color=0D1117&title_color=9966CC&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Aiel-rgb/Gtech-repositorio)
+[![Gtech Repositório](https://github-readme-stats.vercel.app/api/pin/?username=Aiel-rgb&repo=Gtech-repositorio&theme=radical&hide_border=true&bg_color=0D1117&title_color=9966CC&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Aiel-rgb/subtitle-forge-main)
 
 </div>
 
