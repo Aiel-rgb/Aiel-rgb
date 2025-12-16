@@ -8,6 +8,12 @@
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoBrunoGomes/SudoBrunoGomes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudoBrunoGomes/SudoBrunoGomes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SudoBrunoGomes/SudoBrunoGomes/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 
 ## 🚀 Sobre Mim
@@ -74,16 +80,6 @@ const nevesz = {
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aiel-rgb&theme=dark)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/Aiel-rgb/Aiel-rgb/blob/output/github-snake-dark.svg)
 
 </div>
 
