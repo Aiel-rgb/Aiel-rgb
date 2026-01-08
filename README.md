@@ -25,13 +25,13 @@ const nevesz = {
   role: "Full Stack Developer Student",
   location: "Estácio - Parangaba",
   education: "Ciências da Computação",
-  focus: ["Web Development", "Cybersecurity"],
+  focus: ["Web Development", "Cybersecurity", "Python Data Science"],
   
   technologies: {
-    frontEnd: ["HTML", "CSS", "JavaScript"],
-    learning: ["React", "Node.js", "Python"],
-    databases: ["SQLite", "PostgreSQL"],
-    tools: ["Git", "GitHub", "VS Code"]
+    frontEnd: ["HTML", "CSS", "JavaScript", "React", "Tailwind"],
+    learning: ["Node.js", "Python"],
+    databases: ["MySQL", "PostgreSQL"],
+    tools: ["Git", "GitHub", "VS Code", "Linux"]
   },
   
   currentGoals: [
