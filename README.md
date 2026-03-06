@@ -56,10 +56,6 @@ const nevesz = {
 
 ### Linguagens
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="70" />
-          
 
 ### Banco de Dados
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="70"/>          
@@ -69,31 +65,9 @@ const nevesz = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="70"/>              
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="70"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path style="-inkscape-stroke:none" d="M48.697 15.176h12.25v25.437h-12.25zm0 52.251h12.25v25.436h-12.25z" color="#000" fill="#130754"/><path style="-inkscape-stroke:none" d="M48.697 48.037h12.25v12.001h-12.25z" color="#000" fill="#ffca00"/><path style="-inkscape-stroke:none" d="M29.017 36.087h12.25v84.552h-12.25zM67.97 88.414h12.25v25.436H67.97zm0-52.297h12.25v25.437H67.97z" color="#000" fill="#130754"/><path style="-inkscape-stroke:none" d="M67.97 68.983h12.25v12.001H67.97z" color="#000" fill="#e70488"/><path style="-inkscape-stroke:none" d="M87.238 8.55h12.25v84.552h-12.25z" color="#000" fill="#130754"/></svg>
+
           
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aiel-rgb&theme=dark)
-
-</div>
-
----
-
-## 🌟 Projetos em Destaque
-
-<div align="center">
-
-[![Lista de Desejos](https://github-readme-stats.vercel.app/api/pin/?username=Aiel-rgb&repo=lista-de-desejos&theme=radical&hide_border=true&bg_color=0D1117&title_color=9966CC&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Aiel-rgb/lista-de-desejos)
-
-[![Portfolio HTML-CSS](https://github-readme-stats.vercel.app/api/pin/?username=Aiel-rgb&repo=Portifolio-HTML-CSS&theme=radical&hide_border=true&bg_color=0D1117&title_color=9966CC&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Aiel-rgb/Portifolio-HTML-CSS)
-
-[![Subtitle-Forge](https://github-readme-stats.vercel.app/api/pin/?username=Aiel-rgb&repo=subtitle-forge-main&theme=radical&hide_border=true&bg_color=0D1117&title_color=9966CC&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/Aiel-rgb/subtitle-forge-main)
 
 </div>
 
@@ -101,34 +75,11 @@ const nevesz = {
 
 ## 🎯 Objetivos de Aprendizado 2025
 
-- [ ] 🔥 Dominar React e Next.js
-- [ ] 🐍 Aprofundar em Python e Django
+- [ ] Dominar Analise de Dados
 - [ ] 🔐 Certificação na AWS
-- [ ] 🚀 Contribuir em 10+ projetos 
 - [ ] 💼 Desenvolver 5 projetos para portfólio
 
 ---
 
-## 📫 Entre em Contato
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielnevesf)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bielnevesferrer@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aiel-rgb.github.io/Portifolio-HTML-CSS)
-
-</div>
-
----
-
-<div align="center">
-
-### 📚 Atualmente Estudando
-
-**Geração Tech 3.0** | **Full Stack Development** | **Cybersecurity Fundamentals**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aiel-rgb&color=00D9FF&style=for-the-badge)
-
-⭐️ From [Aiel-rgb](https://github.com/Aiel-rgb) |
-
-</div>
