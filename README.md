@@ -42,8 +42,18 @@ perfil = {
 # ------------------------------------------
 
 tecnologias = pd.DataFrame({
-    "area":        [""],
-    "tecnologia":  [""],
+    "area": [
+        "Linguagens",
+        "Banco de Dados", "Banco de Dados",
+        "Ferramentas & Outros", "Ferramentas & Outros", "Ferramentas & Outros",
+        "Ferramentas & Outros", "Ferramentas & Outros", "Ferramentas & Outros",
+    ],
+    "tecnologia": [
+        "Python",
+        "MySQL", "PostgreSQL",
+        "Linux", "Pandas", "Matplotlib",
+        "NumPy", "Scikit-learn", "Jupyter",
+    ],
 })
 
 print(tecnologias.groupby("area")["tecnologia"].apply(list).to_string())
