@@ -2,7 +2,7 @@
   
 # 👋 Olá, eu sou Nevesz!
 
-### 💻 Desenvolvedor Full Stack em Formação | 🎓 Estudante de Ciências da Computação
+### 💻 Analista de Dados em Formação | 🎓 Estudante de Ciências da Computação
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9966CC&center=true&vCenter=true&width=600&lines=Estudante+de+Ciências+da+Computação;Começando+no+Fullstack;Preparando+para+AWS;Focando+em+data+science;)](https://git.io/typing-svg)
 
@@ -61,14 +61,13 @@ const nevesz = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="70"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="70"/>
 
-### Ferramentas & Outros
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="70"/>              
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="70"/>          
+### Ferramentas & Outros                  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"/>
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a0999cba-49ea-4ff9-b031-eb72536bb518" />
-
-
-          
+<img width="70" alt="image" src="https://github.com/user-attachments/assets/a0999cba-49ea-4ff9-b031-eb72536bb518" />
+<img width="70" alt="image" src="https://github.com/user-attachments/assets/f92f21c1-9215-45de-9cd8-3d6a4529e62f" />
+<img width="70" alt="image" src="https://github.com/user-attachments/assets/d92a653e-7d81-4f3d-b83d-8d7801777d60" />
+<img width="70" alt="image" src="https://github.com/user-attachments/assets/c54229be-2cc3-491e-adab-c7240cc61990" />
+<img width="70" alt="image" src="https://github.com/user-attachments/assets/8bffa20e-5e6a-47e2-8e5e-3f00c376427d" />
 
 </div>
 
