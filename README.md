@@ -4,7 +4,7 @@
 
 ### 💻 Analista de Dados em Formação | 🎓 Estudante de Ciências da Computação
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9966CC&center=true&vCenter=true&width=600&lines=Estudante+de+Ciências+da+Computação;Começando+no+Fullstack;Preparando+para+AWS;Focando+em+data+science;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9966CC&center=true&vCenter=true&width=600&lines=Estudante+de+Ciências+da+Computação;Preparando+para+AWS;Focando+em+data+science;)](https://git.io/typing-svg)
 
 </div>
 
