@@ -18,32 +18,61 @@
 
 ## 🚀 Sobre Mim
 
-```javascript
-const nevesz = {
-  name: "Gabriel Neves",
-  username: "Aiel-rgb",
-  role: "Full Stack Developer Student",
-  location: "Estácio - Parangaba",
-  education: "Ciências da Computação",
-  focus: ["Web Development", "Cybersecurity", "Python Data Science"],
-  
-  technologies: {
-    frontEnd: ["HTML", "CSS", "JavaScript", "React", "Tailwind"],
-    learning: ["Node.js", "Python"],
-    databases: ["MySQL", "PostgreSQL"],
-    tools: ["Git", "GitHub", "VS Code", "Linux"]
-  },
-  
-  currentGoals: [
-    "Dominar desenvolvimento Full Stack",
-    "Aprofundar conhecimentos em Cybersecurity",
-    "Contribuir com projetos"
-    "Adquirir certificação AWS"
-    "Iniciar estudos em Data Science"
-  ],
-  
-  motto: "Em constante evolução 🚀"
-};
+```python
+import pandas as pd
+import numpy as np
+from matplotlib import pyplot as plt
+
+# ==========================================
+# 🚀 Gabriel Neves — @Aiel-rgb
+# ==========================================
+
+perfil = {
+    "nome":      "Gabriel Neves",
+    "username":  "Aiel-rgb",
+    "role":      "Data Analyst in training",
+    "local":     "Estácio - Parangaba, Fortaleza",
+    "educacao":  "Ciências da Computação",
+    "foco":      ["Python Data Science", "Python Data Analyst"],
+    "motto":     "Em constante evolução 🚀",
+}
+
+# ------------------------------------------
+# 🛠 Stack
+# ------------------------------------------
+
+tecnologias = pd.DataFrame({
+    "area":        [""],
+    "tecnologia":  [""],
+})
+
+print(tecnologias.groupby("area")["tecnologia"].apply(list).to_string())
+
+# ------------------------------------------
+# 📊 Nível de habilidade (0.0 → 1.0)
+# ------------------------------------------
+
+habilidades = np.array([
+    ("Python",        0.70),
+    ("Pandas",        0.65),
+    ("SQL",           0.65),
+    ("Linux",         0.80),
+], dtype=[("skill", "U20"), ("nivel", "f4")])
+
+# ------------------------------------------
+# 📈 Projetos em destaque
+# ------------------------------------------
+
+projetos = pd.DataFrame({
+    "projeto":     ["Netflix EDA",           "Em breve...",    "Em breve..."],
+    "descricao":   ["Análise exploratória do catálogo Netflix com Pandas e Matplotlib",
+                    "???",
+                    "???"],
+    "status":      ["✅ Concluído",           "🔨 Em desenvolvimento", "📋 Planejado"],
+    "link":        ["github.com/Aiel-rgb/netflix-analise", "-", "-"],
+})
+
+print(projetos.to_string(index=False))
 ```
 ---
 <div align="center">
