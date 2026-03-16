@@ -2,7 +2,7 @@
   
 # 👋 Olá, eu sou Nevesz!
 
-### 💻 Analista de Dados em Formação | 🎓 Estudante de Ciências da Computação
+### 💻 Cientista de Dados em Formação | 🎓 Estudante de Ciências da Computação
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9966CC&center=true&vCenter=true&width=600&lines=Estudante+de+Ciências+da+Computação;Preparando+para+AWS;Focando+em+data+science;)](https://git.io/typing-svg)
 
@@ -30,7 +30,7 @@ from matplotlib import pyplot as plt
 perfil = {
     "nome":      "Gabriel Neves",
     "username":  "Aiel-rgb",
-    "role":      "Data Analyst in training",
+    "role":      "Data scientist  in training",
     "local":     "Estácio - Parangaba, Fortaleza",
     "educacao":  "Ciências da Computação",
     "foco":      ["Python Data Science", "Python Data Analyst"],
@@ -114,8 +114,8 @@ print(projetos.to_string(index=False))
 
 ## 🎯 Objetivos de Aprendizado 2025
 
-- [ ] Dominar Analise de Dados
-- [ ] 🔐 Certificação na AWS
+- [ ] Dominar ciências de Dados
+- [ ] 🔐 Certificação na AWS IA
 - [ ] 💼 Desenvolver 5 projetos para portfólio
 
 ---
