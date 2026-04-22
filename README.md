@@ -1,10 +1,10 @@
 <div align="center">
-  
+
 # 👋 Olá, eu sou Nevesz!
 
 ### 💻 Cientista de Dados em Formação | 🎓 Estudante de Ciências da Computação
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9966CC&center=true&vCenter=true&width=600&lines=Estudante+de+Ciências+da+Computação;Preparando+para+AWS;Focando+em+data+science;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9966CC&center=true&vCenter=true&width=600&lines=Estudante+de+Ciências+da+Computação;Focando+em+Data+Science;Explorando+Machine+Learning;)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,7 +30,7 @@ from matplotlib import pyplot as plt
 perfil = {
     "nome":      "Gabriel Neves",
     "username":  "Aiel-rgb",
-    "role":      "Data scientist  in training",
+    "role":      "Data Scientist in Training",
     "local":     "Estácio - Parangaba, Fortaleza",
     "educacao":  "Ciências da Computação",
     "foco":      ["Python Data Science", "Python Data Analyst"],
@@ -47,12 +47,14 @@ tecnologias = pd.DataFrame({
         "Banco de Dados", "Banco de Dados",
         "Ferramentas & Outros", "Ferramentas & Outros", "Ferramentas & Outros",
         "Ferramentas & Outros", "Ferramentas & Outros", "Ferramentas & Outros",
+        "Ferramentas & Outros",
     ],
     "tecnologia": [
         "Python",
         "MySQL", "PostgreSQL",
         "Linux", "Pandas", "Matplotlib",
-        "NumPy", "Scikit-learn", "Jupyter",
+        "Seaborn", "NumPy", "Scikit-learn",
+        "Jupyter",
     ],
 })
 
@@ -67,6 +69,8 @@ habilidades = np.array([
     ("Pandas",        0.65),
     ("SQL",           0.65),
     ("Linux",         0.80),
+    ("Matplotlib",    0.60),
+    ("Seaborn",       0.55),
 ], dtype=[("skill", "U20"), ("nivel", "f4")])
 
 # ------------------------------------------
@@ -74,19 +78,35 @@ habilidades = np.array([
 # ------------------------------------------
 
 projetos = pd.DataFrame({
-    "projeto":     ["Netflix EDA",           "Em breve...",    "Em breve..."],
-    "descricao":   ["Análise exploratória do catálogo Netflix com Pandas e Matplotlib",
-                    "???",
-                    "???"],
-    "status":      ["✅ Concluído",           "🔨 Em desenvolvimento", "📋 Planejado"],
-    "link":        ["github.com/Aiel-rgb/netflix-analise", "-", "-"],
+    "projeto": [
+        "Netflix EDA",
+        "FinScope",
+        "ARGOS",
+    ],
+    "descricao": [
+        "Análise exploratória de ~7.800 títulos do catálogo Netflix com Pandas e Matplotlib — insights sobre distribuição por gênero, país e ano",
+        "Análise de dados financeiros de ações brasileiras (B3) e americanas (NYSE/NASDAQ) com yfinance, EDA, visualizações e modelagem preditiva",
+        "Dashboard de análise de dados com upload de CSV/SQL/XLSX, visualizações automáticas e integração com IA — sem necessidade de código",
+    ],
+    "status": [
+        "✅ Concluído",
+        "🔨 Em desenvolvimento",
+        "📋 Planejado",
+    ],
+    "link": [
+        "github.com/Aiel-rgb/Portifolio-Analise-de-Dados-da-NetFlix.CSV",
+        "github.com/Aiel-rgb/finscope",
+        "-",
+    ],
 })
 
 print(projetos.to_string(index=False))
 ```
+
 ---
 
 ## 📊 Estatísticas do GitHub
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aiel-rgb&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiel-rgb&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
@@ -94,29 +114,86 @@ print(projetos.to_string(index=False))
 
 ---
 
+## 🛠️ Tecnologias & Ferramentas
+
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h2>🛠️ Tecnologias & Ferramentas</h2>
-        <img src="https://skillicons.dev/icons?i=python,jupyter,pandas,matplotlib,seaborn,powerbi,excel" />
-      </td>
-      <td valign="top" width="10%">
-        <div style="height: 100%; border-left: 2px solid #30363d;"></div>
-      </td>
-      <td valign="top" width="40%">
-        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWpuMnB4bDAyNjEyMmhkcW1mdGFnYjd3MGJvNWE2aGY1M2E1c2hkaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jRrbtBwb8yNXUhNS5x/giphy.gif" width="300">
-      </td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/>
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
+      <br>Jupyter
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <!-- Seaborn não tem ícone oficial no devicon; usando logo via simpleicons -->
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/seaborn-icon.svg" width="48" height="48" alt="Seaborn" onerror="this.src='https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white'"/>
+      <br>Seaborn
+    </td>
+    <td align="center" width="96">
+      <!-- Power BI via simpleicons -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Power BI" style="display:none"/>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+      <br>Power BI
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" width="48" height="48" alt="Excel" onerror="this.src='https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white'"/>
+      <br>Excel
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
 ## 🎯 Objetivos de Aprendizado 2025
 
-- [ ] Dominar ciências de Dados
-- [ ] 🔐 Certificação na AWS IA
-- [ ] 💼 Desenvolver 3 projetos para portfólio
+- [ ] Dominar o pipeline completo de Ciência de Dados
+- [ ] 🔐 Certificação AWS Machine Learning
+- [ ] 💼 Desenvolver 3+ projetos para portfólio
 
 ---
+
+## 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-neves)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiel-rgb)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-dados.vercel.app)
+
+</div>
