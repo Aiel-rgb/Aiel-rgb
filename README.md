@@ -93,7 +93,7 @@ projetos = pd.DataFrame({
     "status": [
         "✅ Concluído",
         "🔨 Em desenvolvimento",
-        "📋 Planejado",
+        "✅ Concluído",
     ],
     "link": [
         "github.com/Aiel-rgb/Portifolio-Analise-de-Dados-da-NetFlix.CSV",
@@ -196,7 +196,7 @@ print(projetos.to_string(index=False))
 
 - [ ] Dominar o pipeline completo de Ciência de Dados
 - [ ] 🔐 Certificação AWS Machine Learning
-- [ ] 💼 Desenvolver 3+ projetos para portfólio
+- [✅ Concluído] 💼 Desenvolver 3+ projetos para portfólio
 
 ---
 
