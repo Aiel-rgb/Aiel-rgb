@@ -85,9 +85,6 @@ projetos = pd.DataFrame({
 print(projetos.to_string(index=False))
 ```
 ---
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWpuMnB4bDAyNjEyMmhkcW1mdGFnYjd3MGJvNWE2aGY1M2E1c2hkaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jRrbtBwb8yNXUhNS5x/giphy.gif" width="300">
-</div>
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
@@ -97,26 +94,44 @@ print(projetos.to_string(index=False))
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🐍 Minha Atividade no GitHub (Snake Animation)
 
 <div align="center">
-
-### Linguagens
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" />          
-
-### Banco de Dados
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="70"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="70"/>
-
-### Ferramentas & Outros                  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"/>
-<img width="70" alt="image" src="https://github.com/user-attachments/assets/a0999cba-49ea-4ff9-b031-eb72536bb518" />
-<img width="70" alt="image" src="https://github.com/user-attachments/assets/f92f21c1-9215-45de-9cd8-3d6a4529e62f" />
-<img width="70" alt="image" src="https://github.com/user-attachments/assets/d92a653e-7d81-4f3d-b83d-8d7801777d60" />
-<img width="70" alt="image" src="https://github.com/user-attachments/assets/c54229be-2cc3-491e-adab-c7240cc61990" />
-<img width="70" alt="image" src="https://github.com/user-attachments/assets/8bffa20e-5e6a-47e2-8e5e-3f00c376427d" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aiel-rgb/Aiel-rgb/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aiel-rgb/Aiel-rgb/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Aiel-rgb/Aiel-rgb/output/github-snake.svg" />
+  </picture>
 </div>
+
+---
+
+<table>
+  <tr>
+    <td valign="top">
+      <h2>🛠️ Tecnologias & Ferramentas</h2>
+      <div align="center">
+        <h3>Linguagens</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" />          
+        <h3>Banco de Dados</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="70"/>          
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="70"/>
+        <h3>Ferramentas & Outros</h3>                  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"/>
+        <img width="70" alt="image" src="https://github.com/user-attachments/assets/a0999cba-49ea-4ff9-b031-eb72536bb518" />
+        <img width="70" alt="image" src="https://github.com/user-attachments/assets/f92f21c1-9215-45de-9cd8-3d6a4529e62f" />
+        <img width="70" alt="image" src="https://github.com/user-attachments/assets/d92a653e-7d81-4f3d-b83d-8d7801777d60" />
+        <img width="70" alt="image" src="https://github.com/user-attachments/assets/c54229be-2cc3-491e-adab-c7240cc61990" />
+        <img width="70" alt="image" src="https://github.com/user-attachments/assets/8bffa20e-5e6a-47e2-8e5e-3f00c376427d" />
+      </div>
+    </td>
+    <td valign="top">
+      <div align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWpuMnB4bDAyNjEyMmhkcW1mdGFnYjd3MGJvNWE2aGY1M2E1c2hkaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jRrbtBwb8yNXUhNS5x/giphy.gif" width="300">
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
