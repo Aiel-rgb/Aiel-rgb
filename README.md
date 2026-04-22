@@ -117,65 +117,75 @@ print(projetos.to_string(index=False))
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
-      <br>Matplotlib
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/>
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
-      <br>Jupyter
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <!-- Seaborn não tem ícone oficial no devicon; usando logo via simpleicons -->
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/seaborn-icon.svg" width="48" height="48" alt="Seaborn" onerror="this.src='https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white'"/>
-      <br>Seaborn
-    </td>
-    <td align="center" width="96">
-      <!-- Power BI via simpleicons -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Power BI" style="display:none"/>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-      <br>Power BI
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" width="48" height="48" alt="Excel" onerror="this.src='https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white'"/>
-      <br>Excel
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td valign="top" width="55%">
+        <h3>⚙️ Stack</h3>
+        <table>
+          <tr>
+            <td align="center" width="80">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+              <br><sub>Python</sub>
+            </td>
+            <td align="center" width="80">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/>
+              <br><sub>Pandas</sub>
+            </td>
+            <td align="center" width="80">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy"/>
+              <br><sub>NumPy</sub>
+            </td>
+            <td align="center" width="80">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" height="42" alt="Matplotlib"/>
+              <br><sub>Matplotlib</sub>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="80">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="Scikit-learn"/>
+              <br><sub>Scikit-learn</sub>
+            </td>
+            <td align="center" width="80">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter"/>
+              <br><sub>Jupyter</sub>
+            </td>
+            <td align="center" width="80">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/>
+              <br><sub>MySQL</sub>
+            </td>
+            <td align="center" width="80">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
+              <br><sub>PostgreSQL</sub>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="80">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
+              <br><sub>Linux</sub>
+            </td>
+            <td align="center" width="80">
+              <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
+              <br><sub>Seaborn</sub>
+            </td>
+            <td align="center" width="80">
+              <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+              <br><sub>Power BI</sub>
+            </td>
+            <td align="center" width="80">
+              <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+              <br><sub>Excel</sub>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top" width="10%">
+        <div style="height: 100%; border-left: 2px solid #30363d;"></div>
+      </td>
+      <td valign="top" width="35%" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWpuMnB4bDAyNjEyMmhkcW1mdGFnYjd3MGJvNWE2aGY1M2E1c2hkaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jRrbtBwb8yNXUhNS5x/giphy.gif" width="280" alt="pokemon gif"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
