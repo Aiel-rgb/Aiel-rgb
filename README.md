@@ -127,6 +127,6 @@ print(projetos.to_string(index=False))
 
 - [ ] Dominar ciências de Dados
 - [ ] 🔐 Certificação na AWS IA
-- [ ] 💼 Desenvolver 3 projetos para portfólio
+- [✅] 💼 Desenvolver 3 projetos para portfólio
 
 ---
