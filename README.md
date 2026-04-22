@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9966CC&height=120&section=header" width="100%"/>
+
 <div align="center">
 
 # 👋 Olá, eu sou Nevesz!
@@ -207,3 +209,5 @@ print(projetos.to_string(index=False))
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-dados.vercel.app)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9966CC&height=120&section=footer" width="100%"/>
