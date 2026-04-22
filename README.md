@@ -94,27 +94,22 @@ print(projetos.to_string(index=False))
 
 ---
 
-<table>
-  <tr>
-    <td valign="top">
-      <h2>🛠️ Tecnologias & Ferramentas</h2>
-      <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="70" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="70" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="70" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original-wordmark.svg" width="70" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="70" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" width="70" />
-      </div>
-    </td>
-    <td valign="top">
-      <div align="center">
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h2>🛠️ Tecnologias & Ferramentas</h2>
+        <img src="https://skillicons.dev/icons?i=python,jupyter,pandas,matplotlib,seaborn,powerbi,excel" />
+      </td>
+      <td valign="top" width="10%">
+        <div style="height: 100%; border-left: 2px solid #30363d;"></div>
+      </td>
+      <td valign="top" width="40%">
         <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWpuMnB4bDAyNjEyMmhkcW1mdGFnYjd3MGJvNWE2aGY1M2E1c2hkaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jRrbtBwb8yNXUhNS5x/giphy.gif" width="300">
-      </div>
-    </td>
-  </tr>
-</table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -122,6 +117,6 @@ print(projetos.to_string(index=False))
 
 - [ ] Dominar ciências de Dados
 - [ ] 🔐 Certificação na AWS IA
-- [✅] 💼 Desenvolver 3 projetos para portfólio
+- [ ] 💼 Desenvolver 3 projetos para portfólio
 
 ---
