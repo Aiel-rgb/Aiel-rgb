@@ -99,18 +99,13 @@ print(projetos.to_string(index=False))
     <td valign="top">
       <h2>🛠️ Tecnologias & Ferramentas</h2>
       <div align="center">
-        <h3>Linguagens</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" />          
-        <h3>Banco de Dados</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="70"/>          
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="70"/>
-        <h3>Ferramentas & Outros</h3>                  
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"/>
-        <img width="70" alt="image" src="https://github.com/user-attachments/assets/a0999cba-49ea-4ff9-b031-eb72536bb518" />
-        <img width="70" alt="image" src="https://github.com/user-attachments/assets/f92f21c1-9215-45de-9cd8-3d6a4529e62f" />
-        <img width="70" alt="image" src="https://github.com/user-attachments/assets/d92a653e-7d81-4f3d-b83d-8d7801777d60" />
-        <img width="70" alt="image" src="https://github.com/user-attachments/assets/c54229be-2cc3-491e-adab-c7240cc61990" />
-        <img width="70" alt="image" src="https://github.com/user-attachments/assets/8bffa20e-5e6a-47e2-8e5e-3f00c376427d" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="70" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="70" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="70" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original-wordmark.svg" width="70" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="70" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" width="70" />
       </div>
     </td>
     <td valign="top">
